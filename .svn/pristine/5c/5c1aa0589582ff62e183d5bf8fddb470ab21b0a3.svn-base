@@ -1,0 +1,118 @@
+Line 53: Class MSForms.ComboBox of control cmbWORule was not a loaded control class.
+Line 87: Class MSForms.ComboBox of control cmbWeekDays was not a loaded control class.
+Line 229: Class MSForms.ComboBox of control cboBlank was not a loaded control class.
+Line 335: Class MSForms.ComboBox of control cboShift was not a loaded control class.
+Line 440: Class MSForms.ComboBox of control cboCode was not a loaded control class.
+Line 559: Class MSForms.ComboBox of control cboType was not a loaded control class.
+Line 576: Class MSForms.ComboBox of control cboFix was not a loaded control class.
+Line 593: Class MSForms.ComboBox of control cboRot was not a loaded control class.
+Line 664: Class MSForms.ComboBox of control cboWO was not a loaded control class.
+Line 812: Class MSForms.ComboBox of control cboAWO was not a loaded control class.
+Line 830: Class MSForms.ComboBox of control cboAWO was not a loaded control class.
+Line 848: Class MSForms.ComboBox of control cboAWO was not a loaded control class.
+Line 59: The property name VariousPropertyBits in cmbWORule is invalid.
+Line 61: The property name DisplayStyle in cmbWORule is invalid.
+Line 62: The property name Size in cmbWORule is invalid.
+Line 63: The property name MatchEntry in cmbWORule is invalid.
+Line 64: The property name ShowDropButtonWhen in cmbWORule is invalid.
+Line 65: The property name SpecialEffect in cmbWORule is invalid.
+Line 66: The property name FontHeight in cmbWORule is invalid.
+Line 67: The property name FontCharSet in cmbWORule is invalid.
+Line 68: The property name FontPitchAndFamily in cmbWORule is invalid.
+Line 93: The property name VariousPropertyBits in cmbWeekDays is invalid.
+Line 95: The property name DisplayStyle in cmbWeekDays is invalid.
+Line 96: The property name Size in cmbWeekDays is invalid.
+Line 97: The property name MatchEntry in cmbWeekDays is invalid.
+Line 98: The property name ShowDropButtonWhen in cmbWeekDays is invalid.
+Line 99: The property name SpecialEffect in cmbWeekDays is invalid.
+Line 100: The property name FontHeight in cmbWeekDays is invalid.
+Line 101: The property name FontCharSet in cmbWeekDays is invalid.
+Line 102: The property name FontPitchAndFamily in cmbWeekDays is invalid.
+Line 235: The property name VariousPropertyBits in cboBlank is invalid.
+Line 237: The property name DisplayStyle in cboBlank is invalid.
+Line 238: The property name Size in cboBlank is invalid.
+Line 239: The property name MatchEntry in cboBlank is invalid.
+Line 240: The property name ShowDropButtonWhen in cboBlank is invalid.
+Line 241: The property name SpecialEffect in cboBlank is invalid.
+Line 242: The property name FontHeight in cboBlank is invalid.
+Line 243: The property name FontCharSet in cboBlank is invalid.
+Line 244: The property name FontPitchAndFamily in cboBlank is invalid.
+Line 341: The property name VariousPropertyBits in cboShift is invalid.
+Line 343: The property name DisplayStyle in cboShift is invalid.
+Line 344: The property name Size in cboShift is invalid.
+Line 345: The property name MatchEntry in cboShift is invalid.
+Line 346: The property name ShowDropButtonWhen in cboShift is invalid.
+Line 347: The property name SpecialEffect in cboShift is invalid.
+Line 348: The property name FontHeight in cboShift is invalid.
+Line 349: The property name FontCharSet in cboShift is invalid.
+Line 350: The property name FontPitchAndFamily in cboShift is invalid.
+Line 446: The property name VariousPropertyBits in cboCode is invalid.
+Line 447: The property name DisplayStyle in cboCode is invalid.
+Line 448: The property name Size in cboCode is invalid.
+Line 449: The property name MatchEntry in cboCode is invalid.
+Line 450: The property name ShowDropButtonWhen in cboCode is invalid.
+Line 451: The property name FontHeight in cboCode is invalid.
+Line 452: The property name FontCharSet in cboCode is invalid.
+Line 453: The property name FontPitchAndFamily in cboCode is invalid.
+Line 565: The property name VariousPropertyBits in cboType is invalid.
+Line 567: The property name DisplayStyle in cboType is invalid.
+Line 568: The property name Size in cboType is invalid.
+Line 569: The property name MatchEntry in cboType is invalid.
+Line 570: The property name ShowDropButtonWhen in cboType is invalid.
+Line 571: The property name SpecialEffect in cboType is invalid.
+Line 572: The property name FontHeight in cboType is invalid.
+Line 573: The property name FontCharSet in cboType is invalid.
+Line 574: The property name FontPitchAndFamily in cboType is invalid.
+Line 582: The property name VariousPropertyBits in cboFix is invalid.
+Line 584: The property name DisplayStyle in cboFix is invalid.
+Line 585: The property name Size in cboFix is invalid.
+Line 586: The property name MatchEntry in cboFix is invalid.
+Line 587: The property name ShowDropButtonWhen in cboFix is invalid.
+Line 588: The property name SpecialEffect in cboFix is invalid.
+Line 589: The property name FontHeight in cboFix is invalid.
+Line 590: The property name FontCharSet in cboFix is invalid.
+Line 591: The property name FontPitchAndFamily in cboFix is invalid.
+Line 600: The property name DisplayStyle in cboRot is invalid.
+Line 601: The property name Size in cboRot is invalid.
+Line 602: The property name MatchEntry in cboRot is invalid.
+Line 603: The property name ShowDropButtonWhen in cboRot is invalid.
+Line 604: The property name SpecialEffect in cboRot is invalid.
+Line 605: The property name FontHeight in cboRot is invalid.
+Line 606: The property name FontCharSet in cboRot is invalid.
+Line 607: The property name FontPitchAndFamily in cboRot is invalid.
+Line 670: The property name VariousPropertyBits in cboWO is invalid.
+Line 672: The property name DisplayStyle in cboWO is invalid.
+Line 673: The property name Size in cboWO is invalid.
+Line 674: The property name MatchEntry in cboWO is invalid.
+Line 675: The property name ShowDropButtonWhen in cboWO is invalid.
+Line 676: The property name SpecialEffect in cboWO is invalid.
+Line 677: The property name FontHeight in cboWO is invalid.
+Line 678: The property name FontCharSet in cboWO is invalid.
+Line 679: The property name FontPitchAndFamily in cboWO is invalid.
+Line 819: The property name VariousPropertyBits in cboAWO is invalid.
+Line 821: The property name DisplayStyle in cboAWO is invalid.
+Line 822: The property name Size in cboAWO is invalid.
+Line 823: The property name MatchEntry in cboAWO is invalid.
+Line 824: The property name ShowDropButtonWhen in cboAWO is invalid.
+Line 825: The property name SpecialEffect in cboAWO is invalid.
+Line 826: The property name FontHeight in cboAWO is invalid.
+Line 827: The property name FontCharSet in cboAWO is invalid.
+Line 828: The property name FontPitchAndFamily in cboAWO is invalid.
+Line 837: The property name VariousPropertyBits in cboAWO is invalid.
+Line 839: The property name DisplayStyle in cboAWO is invalid.
+Line 840: The property name Size in cboAWO is invalid.
+Line 841: The property name MatchEntry in cboAWO is invalid.
+Line 842: The property name ShowDropButtonWhen in cboAWO is invalid.
+Line 843: The property name SpecialEffect in cboAWO is invalid.
+Line 844: The property name FontHeight in cboAWO is invalid.
+Line 845: The property name FontCharSet in cboAWO is invalid.
+Line 846: The property name FontPitchAndFamily in cboAWO is invalid.
+Line 855: The property name VariousPropertyBits in cboAWO is invalid.
+Line 857: The property name DisplayStyle in cboAWO is invalid.
+Line 858: The property name Size in cboAWO is invalid.
+Line 859: The property name MatchEntry in cboAWO is invalid.
+Line 860: The property name ShowDropButtonWhen in cboAWO is invalid.
+Line 861: The property name SpecialEffect in cboAWO is invalid.
+Line 862: The property name FontHeight in cboAWO is invalid.
+Line 863: The property name FontCharSet in cboAWO is invalid.
+Line 864: The property name FontPitchAndFamily in cboAWO is invalid.

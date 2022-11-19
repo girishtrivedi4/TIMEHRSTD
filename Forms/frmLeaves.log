@@ -1,0 +1,11 @@
+Line 53: Class TabDlg.SSTab of control TB1 was not a loaded control class.
+Line 239: Class MSMask.MaskEdBox of control txtName was not a loaded control class.
+Line 261: Class MSMask.MaskEdBox of control txtCode was not a loaded control class.
+Line 595: Class MSMask.MaskEdBox of control txtAllow was not a loaded control class.
+Line 619: Class MSMask.MaskEdBox of control txtMin was not a loaded control class.
+Line 642: Class MSMask.MaskEdBox of control txtMax was not a loaded control class.
+Line 858: Class MSMask.MaskEdBox of control txtAllowMax was not a loaded control class.
+Line 880: Class MSMask.MaskEdBox of control txtCredit was not a loaded control class.
+Line 993: Class MSMask.MaskEdBox of control txtAllowMaxM was not a loaded control class.
+Line 1015: Class MSMask.MaskEdBox of control txtCreditM was not a loaded control class.
+Line 1113: Class MSFlexGridLib.MSFlexGrid of control MSF1 was not a loaded control class.

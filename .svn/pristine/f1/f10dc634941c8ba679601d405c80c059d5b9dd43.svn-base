@@ -1,0 +1,11 @@
+Line 56: Class MSComDlg.CommonDialog of control CD1 was not a loaded control class.
+Line 163: Class MSFlexGridLib.MSFlexGrid of control MSF1 was not a loaded control class.
+Line 59: The property name _ExtentX in CD1 is invalid.
+Line 60: The property name _ExtentY in CD1 is invalid.
+Line 61: The property name _Version in CD1 is invalid.
+Line 169: The property name _ExtentX in MSF1 is invalid.
+Line 170: The property name _ExtentY in MSF1 is invalid.
+Line 171: The property name _Version in MSF1 is invalid.
+Line 172: The property name Cols in MSF1 is invalid.
+Line 173: The property name FixedCols in MSF1 is invalid.
+Line 174: The property name HighLight in MSF1 is invalid.

@@ -1,0 +1,5 @@
+Line 42: Class LVbuttons.LaVolpeButton of control cmdUpdate was not a loaded control class.
+Line 80: Class LVbuttons.LaVolpeButton of control cmdExit was not a loaded control class.
+Line 229: Class LVbuttons.LaVolpeButton of control cmdSubmit was not a loaded control class.
+Line 275: Class MSFlexGridLib.MSFlexGrid of control Flex was not a loaded control class.
+Line 286: Class MSForms.ComboBox of control cmbDept was not a loaded control class.

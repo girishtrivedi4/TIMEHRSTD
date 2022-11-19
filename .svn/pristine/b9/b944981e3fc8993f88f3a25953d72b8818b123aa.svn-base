@@ -1,0 +1,5 @@
+Line 219: Class MSComDlg.CommonDialog of control ParaDialog was not a loaded control class.
+Line 226: Class MSMask.MaskEdBox of control IgnPunchMask was not a loaded control class.
+Line 250: Class MSMask.MaskEdBox of control ShftChgLtMask was not a loaded control class.
+Line 275: Class MSMask.MaskEdBox of control ShftChgErlMask was not a loaded control class.
+Line 640: Class MSMask.MaskEdBox of control AfterShiftMask was not a loaded control class.

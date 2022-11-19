@@ -1,0 +1,11 @@
+Line 53: Class MSMask.MaskEdBox of control txtName was not a loaded control class.
+Line 76: Class MSMask.MaskEdBox of control txtCode was not a loaded control class.
+Line 153: Class MSMask.MaskEdBox of control txtCutE was not a loaded control class.
+Line 175: Class MSMask.MaskEdBox of control txtCutL was not a loaded control class.
+Line 197: Class MSMask.MaskEdBox of control txtLateG was not a loaded control class.
+Line 219: Class MSMask.MaskEdBox of control txtEarlyA was not a loaded control class.
+Line 241: Class MSMask.MaskEdBox of control txtGEarly was not a loaded control class.
+Line 263: Class MSMask.MaskEdBox of control txtHalfDay was not a loaded control class.
+Line 285: Class MSMask.MaskEdBox of control txtFullDay was not a loaded control class.
+Line 307: Class MSMask.MaskEdBox of control txtCLate was not a loaded control class.
+Line 551: Class MSFlexGridLib.MSFlexGrid of control MSF1 was not a loaded control class.
